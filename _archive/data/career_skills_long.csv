@@ -1,0 +1,953 @@
+career,element,importance_1_5
+Backend Developer,Active Learning,3.5
+Backend Developer,Active Listening,3.38
+Backend Developer,Administration and Management,2.25
+Backend Developer,Administrative,2.12
+Backend Developer,Arm-Hand Steadiness,1.75
+Backend Developer,Auditory Attention,1.75
+Backend Developer,Biology,1.14
+Backend Developer,Building and Construction,1.11
+Backend Developer,Category Flexibility,3.5
+Backend Developer,Chemistry,1.24
+Backend Developer,Communications and Media,1.74
+Backend Developer,Complex Problem Solving,3.38
+Backend Developer,Computers and Electronics,4.75
+Backend Developer,Control Precision,1.5
+Backend Developer,Coordination,3.0
+Backend Developer,Critical Thinking,3.88
+Backend Developer,Customer and Personal Service,3.56
+Backend Developer,Deductive Reasoning,3.75
+Backend Developer,Depth Perception,1.5
+Backend Developer,Design,2.7
+Backend Developer,Dynamic Flexibility,1.0
+Backend Developer,Dynamic Strength,1.38
+Backend Developer,Economics and Accounting,2.47
+Backend Developer,Education and Training,2.84
+Backend Developer,Engineering and Technology,2.8
+Backend Developer,English Language,3.27
+Backend Developer,Equipment Maintenance,1.25
+Backend Developer,Equipment Selection,2.12
+Backend Developer,Explosive Strength,1.0
+Backend Developer,Extent Flexibility,1.0
+Backend Developer,Far Vision,2.38
+Backend Developer,Fine Arts,1.0
+Backend Developer,Finger Dexterity,1.75
+Backend Developer,Flexibility of Closure,2.62
+Backend Developer,Fluency of Ideas,3.25
+Backend Developer,Food Production,1.12
+Backend Developer,Foreign Language,1.14
+Backend Developer,Geography,1.27
+Backend Developer,Glare Sensitivity,1.0
+Backend Developer,Gross Body Coordination,1.0
+Backend Developer,Gross Body Equilibrium,1.0
+Backend Developer,Hearing Sensitivity,1.75
+Backend Developer,History and Archeology,1.05
+Backend Developer,Inductive Reasoning,3.5
+Backend Developer,Information Ordering,3.62
+Backend Developer,Installation,1.88
+Backend Developer,Instructing,2.88
+Backend Developer,Judgment and Decision Making,3.62
+Backend Developer,Law and Government,1.74
+Backend Developer,Learning Strategies,2.62
+Backend Developer,Management of Financial Resources,1.75
+Backend Developer,Management of Material Resources,1.62
+Backend Developer,Management of Personnel Resources,2.25
+Backend Developer,Manual Dexterity,1.62
+Backend Developer,Mathematical Reasoning,2.88
+Backend Developer,Mathematics,3.16
+Backend Developer,Mechanical,1.41
+Backend Developer,Medicine and Dentistry,1.0
+Backend Developer,Memorization,2.25
+Backend Developer,Monitoring,3.0
+Backend Developer,Multilimb Coordination,1.0
+Backend Developer,Near Vision,3.75
+Backend Developer,Negotiation,2.62
+Backend Developer,Night Vision,1.0
+Backend Developer,Number Facility,2.5
+Backend Developer,Operation and Control,2.0
+Backend Developer,Operations Analysis,3.25
+Backend Developer,Operations Monitoring,2.75
+Backend Developer,Oral Comprehension,3.75
+Backend Developer,Oral Expression,3.75
+Backend Developer,Originality,3.12
+Backend Developer,Perceptual Speed,2.62
+Backend Developer,Peripheral Vision,1.0
+Backend Developer,Personnel and Human Resources,2.36
+Backend Developer,Persuasion,2.75
+Backend Developer,Philosophy and Theology,1.16
+Backend Developer,Physics,1.28
+Backend Developer,Problem Sensitivity,3.75
+Backend Developer,Production and Processing,2.54
+Backend Developer,Programming,4.0
+Backend Developer,Psychology,1.6
+Backend Developer,Public Safety and Security,2.57
+Backend Developer,Quality Control Analysis,2.75
+Backend Developer,Rate Control,1.0
+Backend Developer,Reaction Time,1.0
+Backend Developer,Reading Comprehension,3.5
+Backend Developer,Repairing,1.12
+Backend Developer,Response Orientation,1.12
+Backend Developer,Sales and Marketing,2.19
+Backend Developer,Science,2.12
+Backend Developer,Selective Attention,3.12
+Backend Developer,Service Orientation,2.88
+Backend Developer,Social Perceptiveness,2.88
+Backend Developer,Sociology and Anthropology,1.33
+Backend Developer,Sound Localization,1.0
+Backend Developer,Spatial Orientation,1.0
+Backend Developer,Speaking,3.12
+Backend Developer,Speech Clarity,3.0
+Backend Developer,Speech Recognition,3.38
+Backend Developer,Speed of Closure,2.5
+Backend Developer,Speed of Limb Movement,1.0
+Backend Developer,Stamina,1.0
+Backend Developer,Static Strength,1.0
+Backend Developer,Systems Analysis,3.5
+Backend Developer,Systems Evaluation,3.38
+Backend Developer,Technology Design,3.38
+Backend Developer,Telecommunications,2.62
+Backend Developer,Therapy and Counseling,1.04
+Backend Developer,Time Management,3.12
+Backend Developer,Time Sharing,2.0
+Backend Developer,Transportation,1.72
+Backend Developer,Troubleshooting,2.62
+Backend Developer,Trunk Strength,1.88
+Backend Developer,Visual Color Discrimination,2.0
+Backend Developer,Visualization,2.38
+Backend Developer,Wrist-Finger Speed,1.75
+Backend Developer,Writing,3.25
+Backend Developer,Written Comprehension,3.75
+Backend Developer,Written Expression,3.5
+Frontend/Web Developer,Active Learning,3.5
+Frontend/Web Developer,Active Listening,3.5
+Frontend/Web Developer,Administration and Management,2.38
+Frontend/Web Developer,Administrative,2.38
+Frontend/Web Developer,Arm-Hand Steadiness,2.0
+Frontend/Web Developer,Auditory Attention,1.88
+Frontend/Web Developer,Biology,1.08
+Frontend/Web Developer,Building and Construction,1.0
+Frontend/Web Developer,Category Flexibility,3.25
+Frontend/Web Developer,Chemistry,1.0
+Frontend/Web Developer,Communications and Media,3.21
+Frontend/Web Developer,Complex Problem Solving,3.62
+Frontend/Web Developer,Computers and Electronics,4.38
+Frontend/Web Developer,Control Precision,1.88
+Frontend/Web Developer,Coordination,3.0
+Frontend/Web Developer,Critical Thinking,3.75
+Frontend/Web Developer,Customer and Personal Service,2.96
+Frontend/Web Developer,Deductive Reasoning,3.88
+Frontend/Web Developer,Depth Perception,1.75
+Frontend/Web Developer,Design,2.96
+Frontend/Web Developer,Dynamic Flexibility,1.0
+Frontend/Web Developer,Dynamic Strength,1.25
+Frontend/Web Developer,Economics and Accounting,1.75
+Frontend/Web Developer,Education and Training,2.25
+Frontend/Web Developer,Engineering and Technology,2.58
+Frontend/Web Developer,English Language,3.54
+Frontend/Web Developer,Equipment Maintenance,1.0
+Frontend/Web Developer,Equipment Selection,2.0
+Frontend/Web Developer,Explosive Strength,1.0
+Frontend/Web Developer,Extent Flexibility,1.0
+Frontend/Web Developer,Far Vision,2.38
+Frontend/Web Developer,Fine Arts,2.04
+Frontend/Web Developer,Finger Dexterity,2.75
+Frontend/Web Developer,Flexibility of Closure,3.12
+Frontend/Web Developer,Fluency of Ideas,3.25
+Frontend/Web Developer,Food Production,1.04
+Frontend/Web Developer,Foreign Language,1.33
+Frontend/Web Developer,Geography,1.42
+Frontend/Web Developer,Glare Sensitivity,1.0
+Frontend/Web Developer,Gross Body Coordination,1.0
+Frontend/Web Developer,Gross Body Equilibrium,1.0
+Frontend/Web Developer,Hearing Sensitivity,1.75
+Frontend/Web Developer,History and Archeology,1.17
+Frontend/Web Developer,Inductive Reasoning,3.5
+Frontend/Web Developer,Information Ordering,3.5
+Frontend/Web Developer,Installation,1.25
+Frontend/Web Developer,Instructing,2.75
+Frontend/Web Developer,Judgment and Decision Making,3.38
+Frontend/Web Developer,Law and Government,1.79
+Frontend/Web Developer,Learning Strategies,2.88
+Frontend/Web Developer,Management of Financial Resources,1.75
+Frontend/Web Developer,Management of Material Resources,1.75
+Frontend/Web Developer,Management of Personnel Resources,2.38
+Frontend/Web Developer,Manual Dexterity,2.0
+Frontend/Web Developer,Mathematical Reasoning,3.12
+Frontend/Web Developer,Mathematics,3.05
+Frontend/Web Developer,Mechanical,1.08
+Frontend/Web Developer,Medicine and Dentistry,1.04
+Frontend/Web Developer,Memorization,2.5
+Frontend/Web Developer,Monitoring,3.0
+Frontend/Web Developer,Multilimb Coordination,1.0
+Frontend/Web Developer,Near Vision,3.62
+Frontend/Web Developer,Negotiation,2.75
+Frontend/Web Developer,Night Vision,1.0
+Frontend/Web Developer,Number Facility,2.75
+Frontend/Web Developer,Operation and Control,1.62
+Frontend/Web Developer,Operations Analysis,3.62
+Frontend/Web Developer,Operations Monitoring,2.25
+Frontend/Web Developer,Oral Comprehension,3.75
+Frontend/Web Developer,Oral Expression,3.25
+Frontend/Web Developer,Originality,3.12
+Frontend/Web Developer,Perceptual Speed,3.0
+Frontend/Web Developer,Peripheral Vision,1.0
+Frontend/Web Developer,Personnel and Human Resources,1.54
+Frontend/Web Developer,Persuasion,2.88
+Frontend/Web Developer,Philosophy and Theology,1.58
+Frontend/Web Developer,Physics,1.29
+Frontend/Web Developer,Problem Sensitivity,3.62
+Frontend/Web Developer,Production and Processing,1.75
+Frontend/Web Developer,Programming,4.12
+Frontend/Web Developer,Psychology,1.92
+Frontend/Web Developer,Public Safety and Security,1.96
+Frontend/Web Developer,Quality Control Analysis,2.75
+Frontend/Web Developer,Rate Control,1.0
+Frontend/Web Developer,Reaction Time,1.0
+Frontend/Web Developer,Reading Comprehension,3.62
+Frontend/Web Developer,Repairing,1.0
+Frontend/Web Developer,Response Orientation,1.12
+Frontend/Web Developer,Sales and Marketing,2.25
+Frontend/Web Developer,Science,2.0
+Frontend/Web Developer,Selective Attention,3.12
+Frontend/Web Developer,Service Orientation,2.88
+Frontend/Web Developer,Social Perceptiveness,2.88
+Frontend/Web Developer,Sociology and Anthropology,1.75
+Frontend/Web Developer,Sound Localization,1.0
+Frontend/Web Developer,Spatial Orientation,1.0
+Frontend/Web Developer,Speaking,3.25
+Frontend/Web Developer,Speech Clarity,3.38
+Frontend/Web Developer,Speech Recognition,3.38
+Frontend/Web Developer,Speed of Closure,2.88
+Frontend/Web Developer,Speed of Limb Movement,1.0
+Frontend/Web Developer,Stamina,1.0
+Frontend/Web Developer,Static Strength,1.0
+Frontend/Web Developer,Systems Analysis,3.12
+Frontend/Web Developer,Systems Evaluation,3.0
+Frontend/Web Developer,Technology Design,2.5
+Frontend/Web Developer,Telecommunications,2.46
+Frontend/Web Developer,Therapy and Counseling,1.08
+Frontend/Web Developer,Time Management,3.0
+Frontend/Web Developer,Time Sharing,1.88
+Frontend/Web Developer,Transportation,1.12
+Frontend/Web Developer,Troubleshooting,2.12
+Frontend/Web Developer,Trunk Strength,1.88
+Frontend/Web Developer,Visual Color Discrimination,2.62
+Frontend/Web Developer,Visualization,3.12
+Frontend/Web Developer,Wrist-Finger Speed,2.0
+Frontend/Web Developer,Writing,3.12
+Frontend/Web Developer,Written Comprehension,3.62
+Frontend/Web Developer,Written Expression,3.12
+DevOps Engineer,Active Learning,3.62
+DevOps Engineer,Active Listening,4.0
+DevOps Engineer,Administration and Management,3.29
+DevOps Engineer,Administrative,2.64
+DevOps Engineer,Arm-Hand Steadiness,1.88
+DevOps Engineer,Auditory Attention,2.0
+DevOps Engineer,Biology,1.18
+DevOps Engineer,Building and Construction,1.81
+DevOps Engineer,Category Flexibility,3.25
+DevOps Engineer,Chemistry,1.36
+DevOps Engineer,Communications and Media,2.45
+DevOps Engineer,Complex Problem Solving,3.75
+DevOps Engineer,Computers and Electronics,4.91
+DevOps Engineer,Control Precision,1.88
+DevOps Engineer,Coordination,3.0
+DevOps Engineer,Critical Thinking,4.0
+DevOps Engineer,Customer and Personal Service,3.86
+DevOps Engineer,Deductive Reasoning,4.0
+DevOps Engineer,Depth Perception,1.62
+DevOps Engineer,Design,2.91
+DevOps Engineer,Dynamic Flexibility,1.0
+DevOps Engineer,Dynamic Strength,1.25
+DevOps Engineer,Economics and Accounting,2.14
+DevOps Engineer,Education and Training,2.55
+DevOps Engineer,Engineering and Technology,3.77
+DevOps Engineer,English Language,4.09
+DevOps Engineer,Equipment Maintenance,1.88
+DevOps Engineer,Equipment Selection,2.12
+DevOps Engineer,Explosive Strength,1.0
+DevOps Engineer,Extent Flexibility,1.38
+DevOps Engineer,Far Vision,2.62
+DevOps Engineer,Fine Arts,1.14
+DevOps Engineer,Finger Dexterity,2.0
+DevOps Engineer,Flexibility of Closure,3.12
+DevOps Engineer,Fluency of Ideas,3.38
+DevOps Engineer,Food Production,1.23
+DevOps Engineer,Foreign Language,1.41
+DevOps Engineer,Geography,1.59
+DevOps Engineer,Glare Sensitivity,1.0
+DevOps Engineer,Gross Body Coordination,1.0
+DevOps Engineer,Gross Body Equilibrium,1.0
+DevOps Engineer,Hearing Sensitivity,1.75
+DevOps Engineer,History and Archeology,1.32
+DevOps Engineer,Inductive Reasoning,4.0
+DevOps Engineer,Information Ordering,3.88
+DevOps Engineer,Installation,1.62
+DevOps Engineer,Instructing,3.0
+DevOps Engineer,Judgment and Decision Making,3.38
+DevOps Engineer,Law and Government,2.09
+DevOps Engineer,Learning Strategies,3.0
+DevOps Engineer,Management of Financial Resources,2.12
+DevOps Engineer,Management of Material Resources,2.0
+DevOps Engineer,Management of Personnel Resources,3.0
+DevOps Engineer,Manual Dexterity,1.88
+DevOps Engineer,Mathematical Reasoning,3.12
+DevOps Engineer,Mathematics,2.96
+DevOps Engineer,Mechanical,2.36
+DevOps Engineer,Medicine and Dentistry,1.36
+DevOps Engineer,Memorization,2.88
+DevOps Engineer,Monitoring,3.5
+DevOps Engineer,Multilimb Coordination,1.0
+DevOps Engineer,Near Vision,3.5
+DevOps Engineer,Negotiation,2.75
+DevOps Engineer,Night Vision,1.0
+DevOps Engineer,Number Facility,3.12
+DevOps Engineer,Operation and Control,2.0
+DevOps Engineer,Operations Analysis,3.75
+DevOps Engineer,Operations Monitoring,3.0
+DevOps Engineer,Oral Comprehension,4.0
+DevOps Engineer,Oral Expression,4.0
+DevOps Engineer,Originality,3.75
+DevOps Engineer,Perceptual Speed,3.0
+DevOps Engineer,Peripheral Vision,1.0
+DevOps Engineer,Personnel and Human Resources,2.32
+DevOps Engineer,Persuasion,2.88
+DevOps Engineer,Philosophy and Theology,1.36
+DevOps Engineer,Physics,1.91
+DevOps Engineer,Problem Sensitivity,4.0
+DevOps Engineer,Production and Processing,2.64
+DevOps Engineer,Programming,3.5
+DevOps Engineer,Psychology,1.82
+DevOps Engineer,Public Safety and Security,2.55
+DevOps Engineer,Quality Control Analysis,3.12
+DevOps Engineer,Rate Control,1.38
+DevOps Engineer,Reaction Time,1.38
+DevOps Engineer,Reading Comprehension,4.0
+DevOps Engineer,Repairing,1.75
+DevOps Engineer,Response Orientation,1.0
+DevOps Engineer,Sales and Marketing,1.95
+DevOps Engineer,Science,3.0
+DevOps Engineer,Selective Attention,3.0
+DevOps Engineer,Service Orientation,3.0
+DevOps Engineer,Social Perceptiveness,3.0
+DevOps Engineer,Sociology and Anthropology,1.41
+DevOps Engineer,Sound Localization,1.0
+DevOps Engineer,Spatial Orientation,1.0
+DevOps Engineer,Speaking,3.88
+DevOps Engineer,Speech Clarity,3.25
+DevOps Engineer,Speech Recognition,3.12
+DevOps Engineer,Speed of Closure,2.75
+DevOps Engineer,Speed of Limb Movement,1.0
+DevOps Engineer,Stamina,1.0
+DevOps Engineer,Static Strength,1.0
+DevOps Engineer,Systems Analysis,3.88
+DevOps Engineer,Systems Evaluation,3.88
+DevOps Engineer,Technology Design,2.5
+DevOps Engineer,Telecommunications,3.95
+DevOps Engineer,Therapy and Counseling,1.23
+DevOps Engineer,Time Management,3.0
+DevOps Engineer,Time Sharing,2.12
+DevOps Engineer,Transportation,1.59
+DevOps Engineer,Troubleshooting,2.5
+DevOps Engineer,Trunk Strength,1.75
+DevOps Engineer,Visual Color Discrimination,2.0
+DevOps Engineer,Visualization,2.88
+DevOps Engineer,Wrist-Finger Speed,1.62
+DevOps Engineer,Writing,3.88
+DevOps Engineer,Written Comprehension,4.0
+DevOps Engineer,Written Expression,4.0
+Cloud Engineer,Active Learning,3.44
+Cloud Engineer,Active Listening,3.88
+Cloud Engineer,Administration and Management,3.04
+Cloud Engineer,Administrative,2.47
+Cloud Engineer,Arm-Hand Steadiness,1.94
+Cloud Engineer,Auditory Attention,2.0
+Cloud Engineer,Biology,1.17
+Cloud Engineer,Building and Construction,1.73
+Cloud Engineer,Category Flexibility,3.62
+Cloud Engineer,Chemistry,1.41
+Cloud Engineer,Communications and Media,2.5
+Cloud Engineer,Complex Problem Solving,3.81
+Cloud Engineer,Computers and Electronics,4.79
+Cloud Engineer,Control Precision,2.06
+Cloud Engineer,Coordination,3.25
+Cloud Engineer,Critical Thinking,4.06
+Cloud Engineer,Customer and Personal Service,3.5
+Cloud Engineer,Deductive Reasoning,4.0
+Cloud Engineer,Depth Perception,1.81
+Cloud Engineer,Design,3.06
+Cloud Engineer,Dynamic Flexibility,1.0
+Cloud Engineer,Dynamic Strength,1.25
+Cloud Engineer,Economics and Accounting,2.02
+Cloud Engineer,Education and Training,2.92
+Cloud Engineer,Engineering and Technology,4.01
+Cloud Engineer,English Language,3.94
+Cloud Engineer,Equipment Maintenance,2.06
+Cloud Engineer,Equipment Selection,2.37
+Cloud Engineer,Explosive Strength,1.0
+Cloud Engineer,Extent Flexibility,1.63
+Cloud Engineer,Far Vision,2.69
+Cloud Engineer,Fine Arts,1.09
+Cloud Engineer,Finger Dexterity,2.06
+Cloud Engineer,Flexibility of Closure,3.12
+Cloud Engineer,Fluency of Ideas,3.25
+Cloud Engineer,Food Production,1.11
+Cloud Engineer,Foreign Language,1.39
+Cloud Engineer,Geography,1.77
+Cloud Engineer,Glare Sensitivity,1.0
+Cloud Engineer,Gross Body Coordination,1.0
+Cloud Engineer,Gross Body Equilibrium,1.0
+Cloud Engineer,Hearing Sensitivity,1.88
+Cloud Engineer,History and Archeology,1.33
+Cloud Engineer,Inductive Reasoning,4.0
+Cloud Engineer,Information Ordering,3.94
+Cloud Engineer,Installation,1.69
+Cloud Engineer,Instructing,3.0
+Cloud Engineer,Judgment and Decision Making,3.56
+Cloud Engineer,Law and Government,2.4
+Cloud Engineer,Learning Strategies,3.0
+Cloud Engineer,Management of Financial Resources,2.31
+Cloud Engineer,Management of Material Resources,2.19
+Cloud Engineer,Management of Personnel Resources,2.88
+Cloud Engineer,Manual Dexterity,1.94
+Cloud Engineer,Mathematical Reasoning,3.06
+Cloud Engineer,Mathematics,2.99
+Cloud Engineer,Mechanical,2.15
+Cloud Engineer,Medicine and Dentistry,1.23
+Cloud Engineer,Memorization,2.75
+Cloud Engineer,Monitoring,3.31
+Cloud Engineer,Multilimb Coordination,1.0
+Cloud Engineer,Near Vision,3.62
+Cloud Engineer,Negotiation,2.88
+Cloud Engineer,Night Vision,1.0
+Cloud Engineer,Number Facility,3.0
+Cloud Engineer,Operation and Control,2.31
+Cloud Engineer,Operations Analysis,3.31
+Cloud Engineer,Operations Monitoring,3.0
+Cloud Engineer,Oral Comprehension,4.0
+Cloud Engineer,Oral Expression,3.88
+Cloud Engineer,Originality,3.38
+Cloud Engineer,Perceptual Speed,3.0
+Cloud Engineer,Peripheral Vision,1.0
+Cloud Engineer,Personnel and Human Resources,2.21
+Cloud Engineer,Persuasion,2.94
+Cloud Engineer,Philosophy and Theology,1.33
+Cloud Engineer,Physics,1.77
+Cloud Engineer,Problem Sensitivity,4.0
+Cloud Engineer,Production and Processing,2.45
+Cloud Engineer,Programming,3.69
+Cloud Engineer,Psychology,1.71
+Cloud Engineer,Public Safety and Security,2.75
+Cloud Engineer,Quality Control Analysis,3.19
+Cloud Engineer,Rate Control,1.31
+Cloud Engineer,Reaction Time,1.31
+Cloud Engineer,Reading Comprehension,4.0
+Cloud Engineer,Repairing,1.94
+Cloud Engineer,Response Orientation,1.0
+Cloud Engineer,Sales and Marketing,1.88
+Cloud Engineer,Science,2.56
+Cloud Engineer,Selective Attention,3.0
+Cloud Engineer,Service Orientation,3.0
+Cloud Engineer,Social Perceptiveness,3.0
+Cloud Engineer,Sociology and Anthropology,1.55
+Cloud Engineer,Sound Localization,1.0
+Cloud Engineer,Spatial Orientation,1.06
+Cloud Engineer,Speaking,3.69
+Cloud Engineer,Speech Clarity,3.38
+Cloud Engineer,Speech Recognition,3.19
+Cloud Engineer,Speed of Closure,2.62
+Cloud Engineer,Speed of Limb Movement,1.0
+Cloud Engineer,Stamina,1.0
+Cloud Engineer,Static Strength,1.0
+Cloud Engineer,Systems Analysis,3.81
+Cloud Engineer,Systems Evaluation,3.88
+Cloud Engineer,Technology Design,2.81
+Cloud Engineer,Telecommunications,4.1
+Cloud Engineer,Therapy and Counseling,1.22
+Cloud Engineer,Time Management,3.06
+Cloud Engineer,Time Sharing,2.37
+Cloud Engineer,Transportation,1.65
+Cloud Engineer,Troubleshooting,2.69
+Cloud Engineer,Trunk Strength,2.0
+Cloud Engineer,Visual Color Discrimination,2.38
+Cloud Engineer,Visualization,2.81
+Cloud Engineer,Wrist-Finger Speed,1.81
+Cloud Engineer,Writing,3.75
+Cloud Engineer,Written Comprehension,4.0
+Cloud Engineer,Written Expression,4.0
+Cybersecurity Analyst,Active Learning,3.25
+Cybersecurity Analyst,Active Listening,3.75
+Cybersecurity Analyst,Administration and Management,3.68
+Cybersecurity Analyst,Administrative,2.69
+Cybersecurity Analyst,Arm-Hand Steadiness,2.0
+Cybersecurity Analyst,Auditory Attention,1.75
+Cybersecurity Analyst,Biology,1.04
+Cybersecurity Analyst,Building and Construction,1.34
+Cybersecurity Analyst,Category Flexibility,3.5
+Cybersecurity Analyst,Chemistry,1.23
+Cybersecurity Analyst,Communications and Media,2.8
+Cybersecurity Analyst,Complex Problem Solving,3.75
+Cybersecurity Analyst,Computers and Electronics,4.35
+Cybersecurity Analyst,Control Precision,1.88
+Cybersecurity Analyst,Coordination,3.0
+Cybersecurity Analyst,Critical Thinking,3.88
+Cybersecurity Analyst,Customer and Personal Service,3.42
+Cybersecurity Analyst,Deductive Reasoning,4.0
+Cybersecurity Analyst,Depth Perception,1.75
+Cybersecurity Analyst,Design,2.4
+Cybersecurity Analyst,Dynamic Flexibility,1.0
+Cybersecurity Analyst,Dynamic Strength,1.38
+Cybersecurity Analyst,Economics and Accounting,2.29
+Cybersecurity Analyst,Education and Training,3.19
+Cybersecurity Analyst,Engineering and Technology,3.64
+Cybersecurity Analyst,English Language,4.26
+Cybersecurity Analyst,Equipment Maintenance,1.62
+Cybersecurity Analyst,Equipment Selection,1.75
+Cybersecurity Analyst,Explosive Strength,1.0
+Cybersecurity Analyst,Extent Flexibility,1.62
+Cybersecurity Analyst,Far Vision,2.75
+Cybersecurity Analyst,Fine Arts,1.02
+Cybersecurity Analyst,Finger Dexterity,2.38
+Cybersecurity Analyst,Flexibility of Closure,3.38
+Cybersecurity Analyst,Fluency of Ideas,3.0
+Cybersecurity Analyst,Food Production,1.02
+Cybersecurity Analyst,Foreign Language,1.31
+Cybersecurity Analyst,Geography,1.59
+Cybersecurity Analyst,Glare Sensitivity,1.0
+Cybersecurity Analyst,Gross Body Coordination,1.0
+Cybersecurity Analyst,Gross Body Equilibrium,1.0
+Cybersecurity Analyst,Hearing Sensitivity,1.88
+Cybersecurity Analyst,History and Archeology,1.13
+Cybersecurity Analyst,Inductive Reasoning,4.0
+Cybersecurity Analyst,Information Ordering,3.88
+Cybersecurity Analyst,Installation,1.5
+Cybersecurity Analyst,Instructing,2.88
+Cybersecurity Analyst,Judgment and Decision Making,3.38
+Cybersecurity Analyst,Law and Government,2.7
+Cybersecurity Analyst,Learning Strategies,2.88
+Cybersecurity Analyst,Management of Financial Resources,1.75
+Cybersecurity Analyst,Management of Material Resources,1.75
+Cybersecurity Analyst,Management of Personnel Resources,2.88
+Cybersecurity Analyst,Manual Dexterity,1.88
+Cybersecurity Analyst,Mathematical Reasoning,2.75
+Cybersecurity Analyst,Mathematics,2.56
+Cybersecurity Analyst,Mechanical,1.68
+Cybersecurity Analyst,Medicine and Dentistry,1.06
+Cybersecurity Analyst,Memorization,2.25
+Cybersecurity Analyst,Monitoring,3.38
+Cybersecurity Analyst,Multilimb Coordination,1.0
+Cybersecurity Analyst,Near Vision,3.75
+Cybersecurity Analyst,Negotiation,2.62
+Cybersecurity Analyst,Night Vision,1.0
+Cybersecurity Analyst,Number Facility,2.25
+Cybersecurity Analyst,Operation and Control,1.75
+Cybersecurity Analyst,Operations Analysis,2.5
+Cybersecurity Analyst,Operations Monitoring,3.0
+Cybersecurity Analyst,Oral Comprehension,4.0
+Cybersecurity Analyst,Oral Expression,3.75
+Cybersecurity Analyst,Originality,3.0
+Cybersecurity Analyst,Perceptual Speed,3.0
+Cybersecurity Analyst,Peripheral Vision,1.0
+Cybersecurity Analyst,Personnel and Human Resources,2.44
+Cybersecurity Analyst,Persuasion,2.62
+Cybersecurity Analyst,Philosophy and Theology,1.19
+Cybersecurity Analyst,Physics,1.37
+Cybersecurity Analyst,Problem Sensitivity,4.0
+Cybersecurity Analyst,Production and Processing,2.41
+Cybersecurity Analyst,Programming,2.62
+Cybersecurity Analyst,Psychology,2.09
+Cybersecurity Analyst,Public Safety and Security,3.27
+Cybersecurity Analyst,Quality Control Analysis,3.0
+Cybersecurity Analyst,Rate Control,1.0
+Cybersecurity Analyst,Reaction Time,1.0
+Cybersecurity Analyst,Reading Comprehension,4.0
+Cybersecurity Analyst,Repairing,1.62
+Cybersecurity Analyst,Response Orientation,1.12
+Cybersecurity Analyst,Sales and Marketing,1.51
+Cybersecurity Analyst,Science,1.88
+Cybersecurity Analyst,Selective Attention,3.12
+Cybersecurity Analyst,Service Orientation,2.88
+Cybersecurity Analyst,Social Perceptiveness,2.75
+Cybersecurity Analyst,Sociology and Anthropology,1.71
+Cybersecurity Analyst,Sound Localization,1.0
+Cybersecurity Analyst,Spatial Orientation,1.0
+Cybersecurity Analyst,Speaking,3.62
+Cybersecurity Analyst,Speech Clarity,3.38
+Cybersecurity Analyst,Speech Recognition,3.38
+Cybersecurity Analyst,Speed of Closure,2.88
+Cybersecurity Analyst,Speed of Limb Movement,1.0
+Cybersecurity Analyst,Stamina,1.12
+Cybersecurity Analyst,Static Strength,1.0
+Cybersecurity Analyst,Systems Analysis,3.38
+Cybersecurity Analyst,Systems Evaluation,3.0
+Cybersecurity Analyst,Technology Design,2.12
+Cybersecurity Analyst,Telecommunications,3.64
+Cybersecurity Analyst,Therapy and Counseling,1.1
+Cybersecurity Analyst,Time Management,3.12
+Cybersecurity Analyst,Time Sharing,2.75
+Cybersecurity Analyst,Transportation,1.61
+Cybersecurity Analyst,Troubleshooting,2.12
+Cybersecurity Analyst,Trunk Strength,1.62
+Cybersecurity Analyst,Visual Color Discrimination,2.12
+Cybersecurity Analyst,Visualization,2.75
+Cybersecurity Analyst,Wrist-Finger Speed,1.38
+Cybersecurity Analyst,Writing,3.5
+Cybersecurity Analyst,Written Comprehension,4.0
+Cybersecurity Analyst,Written Expression,3.88
+Database Administrator,Active Learning,3.5
+Database Administrator,Active Listening,3.75
+Database Administrator,Administration and Management,3.1
+Database Administrator,Administrative,2.34
+Database Administrator,Arm-Hand Steadiness,2.0
+Database Administrator,Auditory Attention,1.88
+Database Administrator,Biology,1.15
+Database Administrator,Building and Construction,1.3
+Database Administrator,Category Flexibility,3.38
+Database Administrator,Chemistry,1.27
+Database Administrator,Communications and Media,2.57
+Database Administrator,Complex Problem Solving,3.88
+Database Administrator,Computers and Electronics,4.79
+Database Administrator,Control Precision,1.88
+Database Administrator,Coordination,3.0
+Database Administrator,Critical Thinking,3.88
+Database Administrator,Customer and Personal Service,3.93
+Database Administrator,Deductive Reasoning,4.0
+Database Administrator,Depth Perception,1.38
+Database Administrator,Design,2.8
+Database Administrator,Dynamic Flexibility,1.0
+Database Administrator,Dynamic Strength,1.25
+Database Administrator,Economics and Accounting,2.7
+Database Administrator,Education and Training,3.09
+Database Administrator,Engineering and Technology,3.51
+Database Administrator,English Language,3.96
+Database Administrator,Equipment Maintenance,1.0
+Database Administrator,Equipment Selection,1.5
+Database Administrator,Explosive Strength,1.0
+Database Administrator,Extent Flexibility,1.0
+Database Administrator,Far Vision,2.62
+Database Administrator,Fine Arts,1.03
+Database Administrator,Finger Dexterity,1.75
+Database Administrator,Flexibility of Closure,3.25
+Database Administrator,Fluency of Ideas,3.12
+Database Administrator,Food Production,1.03
+Database Administrator,Foreign Language,1.35
+Database Administrator,Geography,1.5
+Database Administrator,Glare Sensitivity,1.0
+Database Administrator,Gross Body Coordination,1.0
+Database Administrator,Gross Body Equilibrium,1.0
+Database Administrator,Hearing Sensitivity,1.62
+Database Administrator,History and Archeology,1.27
+Database Administrator,Inductive Reasoning,3.88
+Database Administrator,Information Ordering,3.88
+Database Administrator,Installation,1.38
+Database Administrator,Instructing,3.0
+Database Administrator,Judgment and Decision Making,3.75
+Database Administrator,Law and Government,2.44
+Database Administrator,Learning Strategies,3.0
+Database Administrator,Management of Financial Resources,1.75
+Database Administrator,Management of Material Resources,1.88
+Database Administrator,Management of Personnel Resources,2.75
+Database Administrator,Manual Dexterity,1.75
+Database Administrator,Mathematical Reasoning,3.12
+Database Administrator,Mathematics,3.27
+Database Administrator,Mechanical,1.67
+Database Administrator,Medicine and Dentistry,1.66
+Database Administrator,Memorization,2.5
+Database Administrator,Monitoring,3.25
+Database Administrator,Multilimb Coordination,1.0
+Database Administrator,Near Vision,3.62
+Database Administrator,Negotiation,2.0
+Database Administrator,Night Vision,1.0
+Database Administrator,Number Facility,3.0
+Database Administrator,Operation and Control,1.5
+Database Administrator,Operations Analysis,3.12
+Database Administrator,Operations Monitoring,2.75
+Database Administrator,Oral Comprehension,3.88
+Database Administrator,Oral Expression,3.5
+Database Administrator,Originality,3.0
+Database Administrator,Perceptual Speed,3.0
+Database Administrator,Peripheral Vision,1.0
+Database Administrator,Personnel and Human Resources,2.5
+Database Administrator,Persuasion,2.62
+Database Administrator,Philosophy and Theology,1.1
+Database Administrator,Physics,1.58
+Database Administrator,Problem Sensitivity,3.88
+Database Administrator,Production and Processing,2.12
+Database Administrator,Programming,3.38
+Database Administrator,Psychology,1.86
+Database Administrator,Public Safety and Security,2.55
+Database Administrator,Quality Control Analysis,2.5
+Database Administrator,Rate Control,1.0
+Database Administrator,Reaction Time,1.12
+Database Administrator,Reading Comprehension,3.75
+Database Administrator,Repairing,1.12
+Database Administrator,Response Orientation,1.38
+Database Administrator,Sales and Marketing,1.71
+Database Administrator,Science,2.0
+Database Administrator,Selective Attention,3.0
+Database Administrator,Service Orientation,2.88
+Database Administrator,Social Perceptiveness,2.88
+Database Administrator,Sociology and Anthropology,1.21
+Database Administrator,Sound Localization,1.0
+Database Administrator,Spatial Orientation,1.0
+Database Administrator,Speaking,3.38
+Database Administrator,Speech Clarity,3.12
+Database Administrator,Speech Recognition,3.25
+Database Administrator,Speed of Closure,2.88
+Database Administrator,Speed of Limb Movement,1.0
+Database Administrator,Stamina,1.12
+Database Administrator,Static Strength,1.0
+Database Administrator,Systems Analysis,3.12
+Database Administrator,Systems Evaluation,3.12
+Database Administrator,Technology Design,2.38
+Database Administrator,Telecommunications,3.54
+Database Administrator,Therapy and Counseling,1.06
+Database Administrator,Time Management,2.88
+Database Administrator,Time Sharing,2.25
+Database Administrator,Transportation,2.01
+Database Administrator,Troubleshooting,2.5
+Database Administrator,Trunk Strength,1.75
+Database Administrator,Visual Color Discrimination,1.88
+Database Administrator,Visualization,3.0
+Database Administrator,Wrist-Finger Speed,1.5
+Database Administrator,Writing,3.25
+Database Administrator,Written Comprehension,3.88
+Database Administrator,Written Expression,3.38
+System/Network Admin,Active Learning,3.12
+System/Network Admin,Active Listening,3.75
+System/Network Admin,Administration and Management,2.97
+System/Network Admin,Administrative,3.13
+System/Network Admin,Arm-Hand Steadiness,2.62
+System/Network Admin,Auditory Attention,2.25
+System/Network Admin,Biology,1.13
+System/Network Admin,Building and Construction,1.65
+System/Network Admin,Category Flexibility,3.25
+System/Network Admin,Chemistry,1.35
+System/Network Admin,Communications and Media,2.78
+System/Network Admin,Complex Problem Solving,3.75
+System/Network Admin,Computers and Electronics,4.92
+System/Network Admin,Control Precision,2.75
+System/Network Admin,Coordination,3.0
+System/Network Admin,Critical Thinking,3.88
+System/Network Admin,Customer and Personal Service,3.63
+System/Network Admin,Deductive Reasoning,3.75
+System/Network Admin,Depth Perception,2.0
+System/Network Admin,Design,2.79
+System/Network Admin,Dynamic Flexibility,1.0
+System/Network Admin,Dynamic Strength,1.25
+System/Network Admin,Economics and Accounting,2.07
+System/Network Admin,Education and Training,2.82
+System/Network Admin,Engineering and Technology,3.6
+System/Network Admin,English Language,3.83
+System/Network Admin,Equipment Maintenance,3.0
+System/Network Admin,Equipment Selection,2.88
+System/Network Admin,Explosive Strength,1.0
+System/Network Admin,Extent Flexibility,2.0
+System/Network Admin,Far Vision,2.88
+System/Network Admin,Fine Arts,1.08
+System/Network Admin,Finger Dexterity,2.75
+System/Network Admin,Flexibility of Closure,3.12
+System/Network Admin,Fluency of Ideas,3.25
+System/Network Admin,Food Production,1.21
+System/Network Admin,Foreign Language,1.53
+System/Network Admin,Geography,1.63
+System/Network Admin,Glare Sensitivity,1.0
+System/Network Admin,Gross Body Coordination,1.0
+System/Network Admin,Gross Body Equilibrium,1.0
+System/Network Admin,Hearing Sensitivity,2.12
+System/Network Admin,History and Archeology,1.2
+System/Network Admin,Inductive Reasoning,3.75
+System/Network Admin,Information Ordering,3.88
+System/Network Admin,Installation,2.38
+System/Network Admin,Instructing,2.88
+System/Network Admin,Judgment and Decision Making,3.88
+System/Network Admin,Law and Government,2.13
+System/Network Admin,Learning Strategies,2.75
+System/Network Admin,Management of Financial Resources,2.0
+System/Network Admin,Management of Material Resources,2.75
+System/Network Admin,Management of Personnel Resources,3.0
+System/Network Admin,Manual Dexterity,2.5
+System/Network Admin,Mathematical Reasoning,3.0
+System/Network Admin,Mathematics,3.09
+System/Network Admin,Mechanical,2.34
+System/Network Admin,Medicine and Dentistry,1.33
+System/Network Admin,Memorization,2.75
+System/Network Admin,Monitoring,3.75
+System/Network Admin,Multilimb Coordination,1.75
+System/Network Admin,Near Vision,3.62
+System/Network Admin,Negotiation,2.5
+System/Network Admin,Night Vision,1.0
+System/Network Admin,Number Facility,3.0
+System/Network Admin,Operation and Control,3.0
+System/Network Admin,Operations Analysis,3.12
+System/Network Admin,Operations Monitoring,3.38
+System/Network Admin,Oral Comprehension,3.5
+System/Network Admin,Oral Expression,3.75
+System/Network Admin,Originality,3.12
+System/Network Admin,Perceptual Speed,3.0
+System/Network Admin,Peripheral Vision,1.0
+System/Network Admin,Personnel and Human Resources,2.19
+System/Network Admin,Persuasion,2.75
+System/Network Admin,Philosophy and Theology,1.28
+System/Network Admin,Physics,1.61
+System/Network Admin,Problem Sensitivity,4.0
+System/Network Admin,Production and Processing,2.26
+System/Network Admin,Programming,3.62
+System/Network Admin,Psychology,1.68
+System/Network Admin,Public Safety and Security,2.48
+System/Network Admin,Quality Control Analysis,3.25
+System/Network Admin,Rate Control,2.0
+System/Network Admin,Reaction Time,2.0
+System/Network Admin,Reading Comprehension,3.88
+System/Network Admin,Repairing,3.0
+System/Network Admin,Response Orientation,1.75
+System/Network Admin,Sales and Marketing,1.69
+System/Network Admin,Science,2.25
+System/Network Admin,Selective Attention,3.12
+System/Network Admin,Service Orientation,3.0
+System/Network Admin,Social Perceptiveness,3.0
+System/Network Admin,Sociology and Anthropology,1.43
+System/Network Admin,Sound Localization,1.0
+System/Network Admin,Spatial Orientation,1.0
+System/Network Admin,Speaking,3.38
+System/Network Admin,Speech Clarity,3.12
+System/Network Admin,Speech Recognition,3.38
+System/Network Admin,Speed of Closure,2.62
+System/Network Admin,Speed of Limb Movement,1.0
+System/Network Admin,Stamina,1.0
+System/Network Admin,Static Strength,1.0
+System/Network Admin,Systems Analysis,3.88
+System/Network Admin,Systems Evaluation,3.75
+System/Network Admin,Technology Design,2.75
+System/Network Admin,Telecommunications,3.21
+System/Network Admin,Therapy and Counseling,1.22
+System/Network Admin,Time Management,3.12
+System/Network Admin,Time Sharing,2.62
+System/Network Admin,Transportation,1.49
+System/Network Admin,Troubleshooting,3.75
+System/Network Admin,Trunk Strength,1.62
+System/Network Admin,Visual Color Discrimination,2.88
+System/Network Admin,Visualization,2.88
+System/Network Admin,Wrist-Finger Speed,2.25
+System/Network Admin,Writing,3.12
+System/Network Admin,Written Comprehension,3.88
+System/Network Admin,Written Expression,3.25
+QA/Test Engineer,Active Learning,3.12
+QA/Test Engineer,Active Listening,3.88
+QA/Test Engineer,Administration and Management,2.45
+QA/Test Engineer,Administrative,2.41
+QA/Test Engineer,Arm-Hand Steadiness,1.88
+QA/Test Engineer,Auditory Attention,2.0
+QA/Test Engineer,Biology,1.15
+QA/Test Engineer,Building and Construction,1.18
+QA/Test Engineer,Category Flexibility,3.12
+QA/Test Engineer,Chemistry,1.18
+QA/Test Engineer,Communications and Media,1.97
+QA/Test Engineer,Complex Problem Solving,3.38
+QA/Test Engineer,Computers and Electronics,4.41
+QA/Test Engineer,Control Precision,1.88
+QA/Test Engineer,Coordination,3.0
+QA/Test Engineer,Critical Thinking,3.88
+QA/Test Engineer,Customer and Personal Service,2.67
+QA/Test Engineer,Deductive Reasoning,4.0
+QA/Test Engineer,Depth Perception,1.5
+QA/Test Engineer,Design,3.0
+QA/Test Engineer,Dynamic Flexibility,1.0
+QA/Test Engineer,Dynamic Strength,1.38
+QA/Test Engineer,Economics and Accounting,1.65
+QA/Test Engineer,Education and Training,2.88
+QA/Test Engineer,Engineering and Technology,3.27
+QA/Test Engineer,English Language,3.79
+QA/Test Engineer,Equipment Maintenance,1.0
+QA/Test Engineer,Equipment Selection,1.75
+QA/Test Engineer,Explosive Strength,1.0
+QA/Test Engineer,Extent Flexibility,1.0
+QA/Test Engineer,Far Vision,2.38
+QA/Test Engineer,Fine Arts,1.15
+QA/Test Engineer,Finger Dexterity,2.0
+QA/Test Engineer,Flexibility of Closure,3.12
+QA/Test Engineer,Fluency of Ideas,3.0
+QA/Test Engineer,Food Production,1.03
+QA/Test Engineer,Foreign Language,1.29
+QA/Test Engineer,Geography,1.47
+QA/Test Engineer,Glare Sensitivity,1.0
+QA/Test Engineer,Gross Body Coordination,1.0
+QA/Test Engineer,Gross Body Equilibrium,1.0
+QA/Test Engineer,Hearing Sensitivity,1.88
+QA/Test Engineer,History and Archeology,1.09
+QA/Test Engineer,Inductive Reasoning,4.0
+QA/Test Engineer,Information Ordering,3.75
+QA/Test Engineer,Installation,2.0
+QA/Test Engineer,Instructing,2.62
+QA/Test Engineer,Judgment and Decision Making,3.12
+QA/Test Engineer,Law and Government,1.59
+QA/Test Engineer,Learning Strategies,2.88
+QA/Test Engineer,Management of Financial Resources,1.5
+QA/Test Engineer,Management of Material Resources,1.5
+QA/Test Engineer,Management of Personnel Resources,2.12
+QA/Test Engineer,Manual Dexterity,2.0
+QA/Test Engineer,Mathematical Reasoning,2.88
+QA/Test Engineer,Mathematics,3.02
+QA/Test Engineer,Mechanical,1.24
+QA/Test Engineer,Medicine and Dentistry,1.09
+QA/Test Engineer,Memorization,2.25
+QA/Test Engineer,Monitoring,3.62
+QA/Test Engineer,Multilimb Coordination,1.0
+QA/Test Engineer,Near Vision,3.62
+QA/Test Engineer,Negotiation,2.12
+QA/Test Engineer,Night Vision,1.0
+QA/Test Engineer,Number Facility,2.38
+QA/Test Engineer,Operation and Control,1.88
+QA/Test Engineer,Operations Analysis,3.12
+QA/Test Engineer,Operations Monitoring,3.0
+QA/Test Engineer,Oral Comprehension,4.0
+QA/Test Engineer,Oral Expression,4.0
+QA/Test Engineer,Originality,3.0
+QA/Test Engineer,Perceptual Speed,3.12
+QA/Test Engineer,Peripheral Vision,1.0
+QA/Test Engineer,Personnel and Human Resources,1.91
+QA/Test Engineer,Persuasion,2.5
+QA/Test Engineer,Philosophy and Theology,1.19
+QA/Test Engineer,Physics,1.44
+QA/Test Engineer,Problem Sensitivity,4.0
+QA/Test Engineer,Production and Processing,2.0
+QA/Test Engineer,Programming,3.62
+QA/Test Engineer,Psychology,1.94
+QA/Test Engineer,Public Safety and Security,1.76
+QA/Test Engineer,Quality Control Analysis,3.38
+QA/Test Engineer,Rate Control,1.0
+QA/Test Engineer,Reaction Time,1.0
+QA/Test Engineer,Reading Comprehension,4.0
+QA/Test Engineer,Repairing,1.12
+QA/Test Engineer,Response Orientation,1.0
+QA/Test Engineer,Sales and Marketing,1.41
+QA/Test Engineer,Science,2.75
+QA/Test Engineer,Selective Attention,3.0
+QA/Test Engineer,Service Orientation,2.5
+QA/Test Engineer,Social Perceptiveness,2.88
+QA/Test Engineer,Sociology and Anthropology,1.65
+QA/Test Engineer,Sound Localization,1.0
+QA/Test Engineer,Spatial Orientation,1.0
+QA/Test Engineer,Speaking,3.88
+QA/Test Engineer,Speech Clarity,3.0
+QA/Test Engineer,Speech Recognition,3.25
+QA/Test Engineer,Speed of Closure,2.25
+QA/Test Engineer,Speed of Limb Movement,1.0
+QA/Test Engineer,Stamina,1.0
+QA/Test Engineer,Static Strength,1.0
+QA/Test Engineer,Systems Analysis,3.12
+QA/Test Engineer,Systems Evaluation,3.25
+QA/Test Engineer,Technology Design,2.62
+QA/Test Engineer,Telecommunications,2.21
+QA/Test Engineer,Therapy and Counseling,1.26
+QA/Test Engineer,Time Management,3.0
+QA/Test Engineer,Time Sharing,2.75
+QA/Test Engineer,Transportation,1.26
+QA/Test Engineer,Troubleshooting,2.88
+QA/Test Engineer,Trunk Strength,1.75
+QA/Test Engineer,Visual Color Discrimination,1.88
+QA/Test Engineer,Visualization,2.62
+QA/Test Engineer,Wrist-Finger Speed,1.88
+QA/Test Engineer,Writing,3.75
+QA/Test Engineer,Written Comprehension,4.0
+QA/Test Engineer,Written Expression,3.88

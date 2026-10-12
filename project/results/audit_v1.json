@@ -1,0 +1,157 @@
+{
+  "tag": "v1",
+  "n": 5000,
+  "quality": {
+    "duplicate_ids": 0,
+    "duplicate_rows": 0,
+    "missing_outside_labs": 0,
+    "labs_not_done_pct": 41.2,
+    "students_without_lab": 1,
+    "n_labs_done_matches_mask": true,
+    "class_counts": {
+      "Frontend/Web Developer": 718,
+      "Data Scientist": 682,
+      "System/Network Admin": 615,
+      "Backend Developer": 577,
+      "QA/Test Engineer": 572,
+      "Cybersecurity Analyst": 553,
+      "Database Administrator": 523,
+      "Cloud Engineer": 520,
+      "DevOps Engineer": 240
+    },
+    "completed_vs_score_mismatch": {
+      "lab_backend_api": {
+        "n": 2,
+        "scores": [
+          50.0
+        ]
+      },
+      "lab_web_ui": {
+        "n": 2,
+        "scores": [
+          50.0
+        ]
+      },
+      "lab_devops_pipeline": {
+        "n": 2,
+        "scores": [
+          50.0
+        ]
+      },
+      "lab_cloud_deploy": {
+        "n": 4,
+        "scores": [
+          50.0
+        ]
+      },
+      "lab_security_ctf": {
+        "n": 1,
+        "scores": [
+          50.0
+        ]
+      },
+      "lab_data_analysis": {
+        "n": 2,
+        "scores": [
+          50.0
+        ]
+      },
+      "lab_sql_database": {
+        "n": 2,
+        "scores": [
+          50.0
+        ]
+      },
+      "lab_network_config": {
+        "n": 1,
+        "scores": [
+          50.0
+        ]
+      },
+      "lab_qa_testing": {
+        "n": 2,
+        "scores": [
+          50.0
+        ]
+      }
+    }
+  },
+  "self_vs_latent_corr": {
+    "programming": 0.739,
+    "python": 0.776,
+    "linux": 0.706,
+    "docker_k8s": 0.737,
+    "cloud": 0.74,
+    "networking": 0.818,
+    "security": 0.786,
+    "databases_sql": 0.757,
+    "web_frontend": 0.79,
+    "math_stats": 0.777,
+    "testing_quality": 0.76,
+    "problem_solving": 0.749,
+    "systems_thinking": 0.759
+  },
+  "self_minus_latent_mean": 0.044,
+  "self_vs_labs": {
+    "lab_backend_api": {
+      "corr_self_mix_score": 0.702,
+      "corr_latent_mix_score": 0.95,
+      "corr_self_mix_latent_mix": 0.738
+    },
+    "lab_web_ui": {
+      "corr_self_mix_score": 0.756,
+      "corr_latent_mix_score": 0.954,
+      "corr_self_mix_latent_mix": 0.791
+    },
+    "lab_devops_pipeline": {
+      "corr_self_mix_score": 0.686,
+      "corr_latent_mix_score": 0.948,
+      "corr_self_mix_latent_mix": 0.728
+    },
+    "lab_cloud_deploy": {
+      "corr_self_mix_score": 0.708,
+      "corr_latent_mix_score": 0.95,
+      "corr_self_mix_latent_mix": 0.737
+    },
+    "lab_security_ctf": {
+      "corr_self_mix_score": 0.761,
+      "corr_latent_mix_score": 0.955,
+      "corr_self_mix_latent_mix": 0.793
+    },
+    "lab_data_analysis": {
+      "corr_self_mix_score": 0.772,
+      "corr_latent_mix_score": 0.951,
+      "corr_self_mix_latent_mix": 0.806
+    },
+    "lab_sql_database": {
+      "corr_self_mix_score": 0.722,
+      "corr_latent_mix_score": 0.95,
+      "corr_self_mix_latent_mix": 0.751
+    },
+    "lab_network_config": {
+      "corr_self_mix_score": 0.758,
+      "corr_latent_mix_score": 0.956,
+      "corr_self_mix_latent_mix": 0.787
+    },
+    "lab_qa_testing": {
+      "corr_self_mix_score": 0.683,
+      "corr_latent_mix_score": 0.951,
+      "corr_self_mix_latent_mix": 0.719
+    }
+  },
+  "group_macro_f1_cv5": {
+    "self_* (13)": 0.753,
+    "interest_* (5)": 0.339,
+    "notes + année (5)": 0.291,
+    "masque labs faits (9)": 0.184,
+    "lab scores + masque": 0.684,
+    "lab enjoyment + masque": 0.565,
+    "lab score/temps/essais/indices + masque": 0.686,
+    "aptitudes latentes (référence, cachées)": 0.914
+  },
+  "chance_macro_f1": 0.111,
+  "soft_labels": {
+    "argmax_equals_label": 0.775,
+    "computed_from": "latent aptitudes vs career profiles (step2: exp(-mean sq. distance / 2)), not from observed inputs"
+  }
+}

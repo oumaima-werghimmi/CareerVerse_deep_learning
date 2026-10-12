@@ -1,0 +1,92 @@
+column,role,dtype,missing_%,description
+student_id,id,str,0.0,Identifiant anonyme
+profile_source,feature,str,0.0,Donnée académique / profil
+year_of_study,feature,int64,0.0,Donnée académique / profil
+gender,sensitive,str,0.0,Descriptif — NE PAS utiliser comme feature (audit d'équité)
+gpa_20,feature,float64,0.0,Donnée académique / profil
+grade_math_20,feature,float64,0.0,Donnée académique / profil
+grade_programming_20,feature,float64,0.0,Donnée académique / profil
+grade_networks_20,feature,float64,0.0,Donnée académique / profil
+self_programming,feature,int64,0.0,Auto-évaluation 0-10 de la compétence
+self_python,feature,int64,0.0,Auto-évaluation 0-10 de la compétence
+self_linux,feature,int64,0.0,Auto-évaluation 0-10 de la compétence
+self_docker_k8s,feature,int64,0.0,Auto-évaluation 0-10 de la compétence
+self_cloud,feature,int64,0.0,Auto-évaluation 0-10 de la compétence
+self_networking,feature,int64,0.0,Auto-évaluation 0-10 de la compétence
+self_security,feature,int64,0.0,Auto-évaluation 0-10 de la compétence
+self_databases_sql,feature,int64,0.0,Auto-évaluation 0-10 de la compétence
+self_web_frontend,feature,int64,0.0,Auto-évaluation 0-10 de la compétence
+self_math_stats,feature,int64,0.0,Auto-évaluation 0-10 de la compétence
+self_testing_quality,feature,int64,0.0,Auto-évaluation 0-10 de la compétence
+self_problem_solving,feature,int64,0.0,Auto-évaluation 0-10 de la compétence
+self_systems_thinking,feature,int64,0.0,Auto-évaluation 0-10 de la compétence
+interest_software_dev,feature,int64,0.0,Intérêt déclaré 1-5 pour le domaine
+interest_web_design,feature,int64,0.0,Intérêt déclaré 1-5 pour le domaine
+interest_infrastructure,feature,int64,0.0,Intérêt déclaré 1-5 pour le domaine
+interest_security,feature,int64,0.0,Intérêt déclaré 1-5 pour le domaine
+interest_data_ai,feature,int64,0.0,Intérêt déclaré 1-5 pour le domaine
+lab_backend_api__score,feature,float64,41.4,Career Lab backend_api : score (NaN = lab non fait)
+lab_backend_api__time_min,feature,float64,41.4,Career Lab backend_api : time_min (NaN = lab non fait)
+lab_backend_api__attempts,feature,float64,41.4,Career Lab backend_api : attempts (NaN = lab non fait)
+lab_backend_api__hints_used,feature,float64,41.4,Career Lab backend_api : hints_used (NaN = lab non fait)
+lab_backend_api__completed,feature,float64,41.4,Career Lab backend_api : completed (NaN = lab non fait)
+lab_backend_api__enjoyment_1_5,feature,float64,41.4,Career Lab backend_api : enjoyment_1_5 (NaN = lab non fait)
+lab_web_ui__score,feature,float64,41.0,Career Lab web_ui : score (NaN = lab non fait)
+lab_web_ui__time_min,feature,float64,41.0,Career Lab web_ui : time_min (NaN = lab non fait)
+lab_web_ui__attempts,feature,float64,41.0,Career Lab web_ui : attempts (NaN = lab non fait)
+lab_web_ui__hints_used,feature,float64,41.0,Career Lab web_ui : hints_used (NaN = lab non fait)
+lab_web_ui__completed,feature,float64,41.0,Career Lab web_ui : completed (NaN = lab non fait)
+lab_web_ui__enjoyment_1_5,feature,float64,41.0,Career Lab web_ui : enjoyment_1_5 (NaN = lab non fait)
+lab_devops_pipeline__score,feature,float64,43.4,Career Lab devops_pipeline : score (NaN = lab non fait)
+lab_devops_pipeline__time_min,feature,float64,43.4,Career Lab devops_pipeline : time_min (NaN = lab non fait)
+lab_devops_pipeline__attempts,feature,float64,43.4,Career Lab devops_pipeline : attempts (NaN = lab non fait)
+lab_devops_pipeline__hints_used,feature,float64,43.4,Career Lab devops_pipeline : hints_used (NaN = lab non fait)
+lab_devops_pipeline__completed,feature,float64,43.4,Career Lab devops_pipeline : completed (NaN = lab non fait)
+lab_devops_pipeline__enjoyment_1_5,feature,float64,43.4,Career Lab devops_pipeline : enjoyment_1_5 (NaN = lab non fait)
+lab_cloud_deploy__score,feature,float64,41.0,Career Lab cloud_deploy : score (NaN = lab non fait)
+lab_cloud_deploy__time_min,feature,float64,41.0,Career Lab cloud_deploy : time_min (NaN = lab non fait)
+lab_cloud_deploy__attempts,feature,float64,41.0,Career Lab cloud_deploy : attempts (NaN = lab non fait)
+lab_cloud_deploy__hints_used,feature,float64,41.0,Career Lab cloud_deploy : hints_used (NaN = lab non fait)
+lab_cloud_deploy__completed,feature,float64,41.0,Career Lab cloud_deploy : completed (NaN = lab non fait)
+lab_cloud_deploy__enjoyment_1_5,feature,float64,41.0,Career Lab cloud_deploy : enjoyment_1_5 (NaN = lab non fait)
+lab_security_ctf__score,feature,float64,39.6,Career Lab security_ctf : score (NaN = lab non fait)
+lab_security_ctf__time_min,feature,float64,39.6,Career Lab security_ctf : time_min (NaN = lab non fait)
+lab_security_ctf__attempts,feature,float64,39.6,Career Lab security_ctf : attempts (NaN = lab non fait)
+lab_security_ctf__hints_used,feature,float64,39.6,Career Lab security_ctf : hints_used (NaN = lab non fait)
+lab_security_ctf__completed,feature,float64,39.6,Career Lab security_ctf : completed (NaN = lab non fait)
+lab_security_ctf__enjoyment_1_5,feature,float64,39.6,Career Lab security_ctf : enjoyment_1_5 (NaN = lab non fait)
+lab_data_analysis__score,feature,float64,40.0,Career Lab data_analysis : score (NaN = lab non fait)
+lab_data_analysis__time_min,feature,float64,40.0,Career Lab data_analysis : time_min (NaN = lab non fait)
+lab_data_analysis__attempts,feature,float64,40.0,Career Lab data_analysis : attempts (NaN = lab non fait)
+lab_data_analysis__hints_used,feature,float64,40.0,Career Lab data_analysis : hints_used (NaN = lab non fait)
+lab_data_analysis__completed,feature,float64,40.0,Career Lab data_analysis : completed (NaN = lab non fait)
+lab_data_analysis__enjoyment_1_5,feature,float64,40.0,Career Lab data_analysis : enjoyment_1_5 (NaN = lab non fait)
+lab_sql_database__score,feature,float64,41.7,Career Lab sql_database : score (NaN = lab non fait)
+lab_sql_database__time_min,feature,float64,41.7,Career Lab sql_database : time_min (NaN = lab non fait)
+lab_sql_database__attempts,feature,float64,41.7,Career Lab sql_database : attempts (NaN = lab non fait)
+lab_sql_database__hints_used,feature,float64,41.7,Career Lab sql_database : hints_used (NaN = lab non fait)
+lab_sql_database__completed,feature,float64,41.7,Career Lab sql_database : completed (NaN = lab non fait)
+lab_sql_database__enjoyment_1_5,feature,float64,41.7,Career Lab sql_database : enjoyment_1_5 (NaN = lab non fait)
+lab_network_config__score,feature,float64,40.9,Career Lab network_config : score (NaN = lab non fait)
+lab_network_config__time_min,feature,float64,40.9,Career Lab network_config : time_min (NaN = lab non fait)
+lab_network_config__attempts,feature,float64,40.9,Career Lab network_config : attempts (NaN = lab non fait)
+lab_network_config__hints_used,feature,float64,40.9,Career Lab network_config : hints_used (NaN = lab non fait)
+lab_network_config__completed,feature,float64,40.9,Career Lab network_config : completed (NaN = lab non fait)
+lab_network_config__enjoyment_1_5,feature,float64,40.9,Career Lab network_config : enjoyment_1_5 (NaN = lab non fait)
+lab_qa_testing__score,feature,float64,40.8,Career Lab qa_testing : score (NaN = lab non fait)
+lab_qa_testing__time_min,feature,float64,40.8,Career Lab qa_testing : time_min (NaN = lab non fait)
+lab_qa_testing__attempts,feature,float64,40.8,Career Lab qa_testing : attempts (NaN = lab non fait)
+lab_qa_testing__hints_used,feature,float64,40.8,Career Lab qa_testing : hints_used (NaN = lab non fait)
+lab_qa_testing__completed,feature,float64,40.8,Career Lab qa_testing : completed (NaN = lab non fait)
+lab_qa_testing__enjoyment_1_5,feature,float64,40.8,Career Lab qa_testing : enjoyment_1_5 (NaN = lab non fait)
+n_labs_done,feature,int64,0.0,Donnée académique / profil
+career_label,label,str,0.0,Métier cible (vérité terrain de la simulation)
+fit_Backend Developer,soft_label,float64,0.0,"Adéquation douce au métier (0-1, somme=1) — label alternatif"
+fit_Frontend/Web Developer,soft_label,float64,0.0,"Adéquation douce au métier (0-1, somme=1) — label alternatif"
+fit_DevOps Engineer,soft_label,float64,0.0,"Adéquation douce au métier (0-1, somme=1) — label alternatif"
+fit_Cloud Engineer,soft_label,float64,0.0,"Adéquation douce au métier (0-1, somme=1) — label alternatif"
+fit_Cybersecurity Analyst,soft_label,float64,0.0,"Adéquation douce au métier (0-1, somme=1) — label alternatif"
+fit_Data Scientist,soft_label,float64,0.0,"Adéquation douce au métier (0-1, somme=1) — label alternatif"
+fit_Database Administrator,soft_label,float64,0.0,"Adéquation douce au métier (0-1, somme=1) — label alternatif"
+fit_System/Network Admin,soft_label,float64,0.0,"Adéquation douce au métier (0-1, somme=1) — label alternatif"
+fit_QA/Test Engineer,soft_label,float64,0.0,"Adéquation douce au métier (0-1, somme=1) — label alternatif"

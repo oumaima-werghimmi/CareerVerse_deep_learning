@@ -1,0 +1,222 @@
+{
+  "summary": {
+    "Régression logistique": {
+      "accuracy": {
+        "mean": 0.896,
+        "std": 0.0
+      },
+      "balanced_accuracy": {
+        "mean": 0.8946,
+        "std": 0.0
+      },
+      "macro_f1": {
+        "mean": 0.8884,
+        "std": 0.0
+      },
+      "top3_accuracy": {
+        "mean": 0.988,
+        "std": 0.0
+      }
+    },
+    "Gradient Boosting": {
+      "accuracy": {
+        "mean": 0.892,
+        "std": 0.0
+      },
+      "balanced_accuracy": {
+        "mean": 0.8707,
+        "std": 0.0
+      },
+      "macro_f1": {
+        "mean": 0.8754,
+        "std": 0.0
+      },
+      "top3_accuracy": {
+        "mean": 0.986,
+        "std": 0.0
+      }
+    },
+    "MLP": {
+      "accuracy": {
+        "mean": 0.898,
+        "std": 0.0053
+      },
+      "balanced_accuracy": {
+        "mean": 0.8911,
+        "std": 0.008
+      },
+      "macro_f1": {
+        "mean": 0.89,
+        "std": 0.0061
+      },
+      "top3_accuracy": {
+        "mean": 0.982,
+        "std": 0.0035
+      }
+    },
+    "CareerNet (sans labels doux)": {
+      "accuracy": {
+        "mean": 0.9093,
+        "std": 0.0031
+      },
+      "balanced_accuracy": {
+        "mean": 0.9087,
+        "std": 0.0028
+      },
+      "macro_f1": {
+        "mean": 0.9028,
+        "std": 0.0066
+      },
+      "top3_accuracy": {
+        "mean": 0.9893,
+        "std": 0.0023
+      }
+    },
+    "CareerNet (+ labels doux)": {
+      "accuracy": {
+        "mean": 0.9053,
+        "std": 0.0133
+      },
+      "balanced_accuracy": {
+        "mean": 0.9011,
+        "std": 0.0111
+      },
+      "macro_f1": {
+        "mean": 0.896,
+        "std": 0.0141
+      },
+      "top3_accuracy": {
+        "mean": 0.9947,
+        "std": 0.0012
+      }
+    }
+  },
+  "robustness_macro_f1": {
+    "k_labs": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      9
+    ],
+    "Gradient Boosting": [
+      0.7359,
+      0.7448,
+      0.7677,
+      0.7815,
+      0.8118,
+      0.8416,
+      0.8754
+    ],
+    "MLP": [
+      0.7731,
+      0.8088,
+      0.7983,
+      0.8232,
+      0.836,
+      0.8584,
+      0.8863
+    ],
+    "CareerNet (sans labels doux)": [
+      0.7339,
+      0.7706,
+      0.7909,
+      0.8117,
+      0.8422,
+      0.8842,
+      0.9059
+    ]
+  },
+  "permutation_importance": {
+    "Notes académiques": 0.01,
+    "Auto-évaluation": 0.4811,
+    "Intérêts déclarés": 0.0507,
+    "Career Labs (tous)": 0.2493,
+    "Lab backend_api": 0.04,
+    "Lab web_ui": 0.0372,
+    "Lab devops_pipeline": 0.0496,
+    "Lab cloud_deploy": 0.062,
+    "Lab security_ctf": 0.0209,
+    "Lab data_analysis": 0.0068,
+    "Lab sql_database": 0.0319,
+    "Lab network_config": 0.0453,
+    "Lab qa_testing": 0.0303
+  },
+  "fairness_by_gender": {
+    "F": {
+      "n": 231,
+      "accuracy": 0.9047619047619048,
+      "macro_f1": 0.8977352795818311
+    },
+    "M": {
+      "n": 269,
+      "accuracy": 0.9144981412639405,
+      "macro_f1": 0.9111176771686446
+    },
+    "gap_F_minus_M": {
+      "accuracy_gap": -0.0097,
+      "ci95": [
+        -0.0611,
+        0.0403
+      ]
+    }
+  },
+  "per_class": {
+    "Backend Developer": {
+      "precision": 0.891,
+      "recall": 0.845,
+      "f1-score": 0.867,
+      "support": 58.0
+    },
+    "Cloud Engineer": {
+      "precision": 0.87,
+      "recall": 0.769,
+      "f1-score": 0.816,
+      "support": 52.0
+    },
+    "Cybersecurity Analyst": {
+      "precision": 0.879,
+      "recall": 0.927,
+      "f1-score": 0.903,
+      "support": 55.0
+    },
+    "Data Scientist": {
+      "precision": 0.971,
+      "recall": 0.971,
+      "f1-score": 0.971,
+      "support": 68.0
+    },
+    "Database Administrator": {
+      "precision": 0.98,
+      "recall": 0.906,
+      "f1-score": 0.941,
+      "support": 53.0
+    },
+    "DevOps Engineer": {
+      "precision": 0.852,
+      "recall": 0.958,
+      "f1-score": 0.902,
+      "support": 24.0
+    },
+    "Frontend/Web Developer": {
+      "precision": 0.946,
+      "recall": 0.972,
+      "f1-score": 0.959,
+      "support": 72.0
+    },
+    "QA/Test Engineer": {
+      "precision": 0.912,
+      "recall": 0.912,
+      "f1-score": 0.912,
+      "support": 57.0
+    },
+    "System/Network Admin": {
+      "precision": 0.848,
+      "recall": 0.918,
+      "f1-score": 0.882,
+      "support": 61.0
+    }
+  }
+}

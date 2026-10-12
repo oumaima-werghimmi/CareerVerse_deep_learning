@@ -1,0 +1,4 @@
+dropout 0.15 seed 0: sel 0.772 | test F1 0.865 | 0 lab 0.624 | 2 labs 0.700
+dropout 0.15 seed 1: sel 0.761 | test F1 0.862 | 0 lab 0.615 | 2 labs 0.718
+dropout 0.15 seed 2: sel 0.778 | test F1 0.862 | 0 lab 0.619 | 2 labs 0.681
+dropout 0.3 seed 0: sel 0.759 | test F1 0.846 | 0 lab 0.654 | 2 labs 0.691
